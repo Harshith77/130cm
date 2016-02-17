@@ -1,0 +1,10 @@
+{
+    "name": "130cm",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "scratch",
+    "executable": "130cm.xml",
+    "author": "Harshith77",
+    "minimum_firmware_version": 42
+}
